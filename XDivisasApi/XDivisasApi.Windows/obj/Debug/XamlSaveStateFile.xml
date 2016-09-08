@@ -1,0 +1,16 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\lanave\documents\visual studio 2015\projects\xdivisasapi\xdivisasapi\xdivisasapi.windows\obj\debug\intermediatexaml\xdivisasapi.windows.exe" HashGuid="86a197a0-bbd0-e543-1753-fdae2667049d" />
+    <ReferenceAssembly PathName="c:\users\lanave\documents\visual studio 2015\projects\xdivisasapi\packages\microsoft.bcl.async.1.0.168\lib\win8\microsoft.threading.tasks.dll" HashGuid="3a1beea5-1547-d5c6-af32-3b5c761c2a6a" />
+    <ReferenceAssembly PathName="c:\users\lanave\documents\visual studio 2015\projects\xdivisasapi\packages\microsoft.bcl.async.1.0.168\lib\win8\microsoft.threading.tasks.extensions.dll" HashGuid="79a01987-c06c-c9d7-37eb-629809787680" />
+    <ReferenceAssembly PathName="c:\users\lanave\documents\visual studio 2015\projects\xdivisasapi\packages\newtonsoft.json.9.0.1\lib\portable-net45+wp80+win8+wpa81\newtonsoft.json.dll" HashGuid="424e6aa8-ba94-c678-e707-af9fe9838e1a" />
+    <ReferenceAssembly PathName="c:\users\lanave\documents\visual studio 2015\projects\xdivisasapi\packages\microsoft.net.http.2.2.29\lib\win8\system.net.http.extensions.dll" HashGuid="b50282f8-b9f8-4408-8d49-ba2efe301624" />
+    <ReferenceAssembly PathName="c:\users\lanave\documents\visual studio 2015\projects\xdivisasapi\packages\microsoft.net.http.2.2.29\lib\win8\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+    <ReferenceAssembly PathName="c:\users\lanave\documents\visual studio 2015\projects\xdivisasapi\packages\xamarin.forms.2.0.0.6482\lib\win81\xamarin.forms.core.dll" HashGuid="c8a30eb8-5ae8-352d-b94f-7c913a7557ba" />
+    <ReferenceAssembly PathName="c:\users\lanave\documents\visual studio 2015\projects\xdivisasapi\packages\xamarin.forms.2.0.0.6482\lib\win81\xamarin.forms.platform.dll" HashGuid="d9389e38-8a39-bed5-406b-7a34fe4704ea" />
+    <ReferenceAssembly PathName="c:\users\lanave\documents\visual studio 2015\projects\xdivisasapi\packages\xamarin.forms.2.0.0.6482\lib\win81\xamarin.forms.platform.winrt.dll" HashGuid="dbd728c2-e21b-4125-2be0-f7931b605baa" />
+    <ReferenceAssembly PathName="c:\users\lanave\documents\visual studio 2015\projects\xdivisasapi\packages\xamarin.forms.2.0.0.6482\lib\win81\xamarin.forms.platform.winrt.tablet.dll" HashGuid="cc26105e-9714-a8a4-7460-d1885be1ee00" />
+    <ReferenceAssembly PathName="c:\users\lanave\documents\visual studio 2015\projects\xdivisasapi\packages\xamarin.forms.2.0.0.6482\lib\win81\xamarin.forms.xaml.dll" HashGuid="2828b56a-3245-7d15-6650-dfb4f30cfa91" />
+    <ReferenceAssembly PathName="c:\users\lanave\documents\visual studio 2015\projects\xdivisasapi\xdivisasapi\xdivisasapi\bin\debug\xdivisasapi.dll" HashGuid="f2de2ec0-1d8d-db78-97b1-571f21149b58" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

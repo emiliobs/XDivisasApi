@@ -1,0 +1,2 @@
+C:\Users\LaNave\documents\visual studio 2015\Projects\XDivisasApi\XDivisasApi\XDivisasApi.Windows\XDivisasApi.Windows.csproj;neutral
+C:\Users\LaNave\documents\visual studio 2015\Projects\XDivisasApi\XDivisasApi\XDivisasApi\XDivisasApi.csproj;neutral

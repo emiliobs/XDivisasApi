@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XDivisasApi.MainPage" Title="Main Page.....">
+
+    <ScrollView>
+        <StackLayout Spacing="10">
+            <Label Text="Divisas" FontSize="30" FontAttributes="Bold" HorizontalOptions="Center" VerticalOptions="Center"></Label>
+            <Label Text="Ingrese Valor, Seleccione moneda origen, seleccione moneda destino y presione el botón de convertir."
+                   HorizontalOptions="Start"
+                   FontSize="18"
+                   VerticalOptions="Center"></Label>
+            <Entry x:Name="amountEntry" Placeholder="Ingrese Valor......"
+                    Keyboard="Numeric"
+                   HorizontalOptions="FillAndExpand"
+                   VerticalOptions="Center"></Entry>
+            <Label Text="- Selecciones modeda Origen." FontSize="15" HorizontalOptions="FillAndExpand" VerticalOptions="Center"></Label>
+            <Picker x:Name="sourcePicker"  HorizontalOptions="FillAndExpand" VerticalOptions="Center"></Picker>
+            <Label Text="- Selecciones modeda Destino." FontSize="15" HorizontalOptions="FillAndExpand" VerticalOptions="Center"></Label>
+            <Picker x:Name="targetPicker"  HorizontalOptions="FillAndExpand" VerticalOptions="Center"></Picker>
+            <Button x:Name="convertButton"
+                    Text="CovertT.!"
+                    BackgroundColor="Maroon"
+                    IsEnabled="False"
+                    TextColor="White"
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="Start"></Button>
+            <ActivityIndicator x:Name="waitActivityIndicator" IsRunning="False" HorizontalOptions="FillAndExpand"
+                               VerticalOptions="Center"></ActivityIndicator>
+            <Label x:Name="covertedLabel"
+                   Text="No se han realizado conversiones."
+                   IsEnabled="False"
+                   FontSize="22"
+                   FontAttributes="Bold"
+                   HorizontalTextAlignment="Center"
+                   VerticalTextAlignment="Center"
+                   BackgroundColor="Teal"
+                   TextColor="Red"
+                   HorizontalOptions="FillAndExpand"
+                   VerticalOptions="FillAndExpand"></Label>
+        </StackLayout>
+    </ScrollView>
+
+</ContentPage>
